@@ -1,4 +1,5 @@
 ﻿using ExerciciosEmCSharp.ExerciciosSeqüênciaisECondicionais;
+using ExerciciosEmCSharp.ExerciciosSequenciaisECondicionais;
 using System;
 using System.Collections.Generic;
 namespace ExerciciosEmCSharp
@@ -11,7 +12,8 @@ namespace ExerciciosEmCSharp
             {
 
                 //{"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
-                {"Exercicio N° 1 - LigandoDoisPontos",LigandoDoisPontos.Executar}
+                {"Exercicio N° 1 - Ligando Dois Pontos",LigandoDoisPontos.Executar},
+                {"Exercicio N° 2 - Calcular Expressão",CalcularExpressao.Executar}
 
             });
              central.SelecionarEExecutar();

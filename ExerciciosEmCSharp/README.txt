@@ -1,6 +1,6 @@
 ﻿Algoritmos Seqüênciais e Condicionais
 
-1. Construa um algoritmo que, tendo como dados de entrada dois pontos quaisquer no plano, P(x1,y1) e P(x2,y2), escreva
+1. OK Construa um algoritmo que, tendo como dados de entrada dois pontos quaisquer no plano, P(x1,y1) e P(x2,y2), escreva
 a distância entre eles. A fórmula que efetua tal cálculo é: Image5.gif (1341 bytes)
 
 2. Escreva um algoritmo que leia três números inteiros e positivos (A, B, C) e calcule a seguinte expressão:

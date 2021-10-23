@@ -15,10 +15,7 @@ namespace ExerciciosEmCSharp.ExerciciosSeqüênciaisECondicionais
             Console.WriteLine();
             Console.WriteLine();
 
-
             double D;
-
-
 
             Console.WriteLine("Insira o ponto no plano P X1");
             double x1 = double.Parse(Console.ReadLine());
@@ -39,18 +36,6 @@ namespace ExerciciosEmCSharp.ExerciciosSeqüênciaisECondicionais
            
 
             Console.WriteLine($"Resultato: {D.ToString("C")}"); // valor.ToString("C") limita a casa decimal em duas exemplo 2,12
-        
-            
-
-
-
-
-
-
-
-
-
-
 
         }
     }
