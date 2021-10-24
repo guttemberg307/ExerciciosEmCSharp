@@ -7,7 +7,7 @@ a distância entre eles. A fórmula que efetua tal cálculo é: Image5.gif (1341
 
  , onde  Image7.gif (19886 bytes)
 
-3. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
+3. OK Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
 
 4. Faça um algoritmo que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
 

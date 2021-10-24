@@ -11,19 +11,22 @@ namespace ExerciciosEmCSharp.ExerciciosSequenciaisECondicionais
         public static void Executar()
         {
 
-            Console.WriteLine("Idade pessoa  Meses, Dias e Anos");
+            Console.WriteLine("---------------------------Idade pessoa  Meses, Dias e Anos------------------------");
 
             Console.WriteLine("Insira a sua Idade: ");
+
+            Console.WriteLine();
+            Console.WriteLine("Insira idade atual : ");
             int idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Insira a sua Mês: ");
+            Console.WriteLine("Insira o Mês atual: ");
             int mes = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Insira a sua Ano: ");
-            int ano = int.Parse(Console.ReadLine());
+            Console.WriteLine("Insira o dia atual: ");
+            int dias = int.Parse(Console.ReadLine());
 
 
-            int resultado = (idade * 365) + (mes * 30);
+            int resultado = (idade * 365) + (mes * 30) + dias;
 
             Console.WriteLine($"Quantidade de dias referente a anos:{resultado}");
 

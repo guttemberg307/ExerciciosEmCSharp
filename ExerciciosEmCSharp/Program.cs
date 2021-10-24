@@ -12,9 +12,10 @@ namespace ExerciciosEmCSharp
             {
 
                 //{"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
-                {"Exercicio N° 1 - Ligando Dois Pontos",LigandoDoisPontos.Executar},
-                {"Exercicio N° 2 - Calcular Expressão",CalcularExpressao.Executar},
-                {"Exercicio N° 3 - IdadePessoa 1", IdadePessoa_1.Executar }
+                {"Exercicio - Ligando Dois Pontos",LigandoDoisPontos.Executar},
+                {"Exercicio - Calcular Expressão", CalcularExpressao.Executar},
+                {"Exercicio - IdadePessoa 1",         IdadePessoa_1.Executar },
+                {"Exercicio = IdadePessoa 2",          IdadePessoa_2.Executar}
 
             });
              central.SelecionarEExecutar();
