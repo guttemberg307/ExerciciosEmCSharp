@@ -20,8 +20,10 @@ namespace ExerciciosEmCSharp
                 {"Exercicio = Duracao Evento Fabrica",DuracaoEventoFabrica.Executar},
                 {"Exercicio = Custo Novo Consumidor Carro",CustoNovoConsumidorCarro.Executar},
                 {"Exercicio = Nota Aluno Aprovado Ou Reprovado", NotaAlunoAprovadoOuReprovado.Executar},
-                {"Exercicio = Maior valor de 3 ", MaiorValor.Executar}
+                {"Exercicio = Maior valor de 3 ", MaiorValor.Executar},
+                {"Exercicio =  Multiplos E Nao Multiplos ", MultiplosENaoMultiplos.Executar}
                 
+
 
 
             });
