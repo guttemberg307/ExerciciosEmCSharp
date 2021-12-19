@@ -16,7 +16,8 @@ namespace ExerciciosEmCSharp
                 {"Exercicio - Calcular Expressão",  CalcularExpressao.Executar},
                 {"Exercicio - Idade Pessoa 1",         IdadePessoa_1.Executar },
                 {"Exercicio = Idade Pessoa 2",          IdadePessoa_2.Executar},
-                {"Exercicio = Media Aluno Nota",       MediaAlunoNota.Executar}
+                {"Exercicio = Media Aluno Nota",       MediaAlunoNota.Executar},
+                {"Exercicio = Duracao Evento Fabrica",DuracaoEventoFabrica.Executar}
 
             });
              central.SelecionarEExecutar();
