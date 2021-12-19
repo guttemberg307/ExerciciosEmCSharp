@@ -18,11 +18,9 @@ namespace ExerciciosEmCSharp
                 {"Exercicio = Idade Pessoa 2", IdadePessoa_2.Executar},
                 {"Exercicio = Media Aluno Nota", MediaAlunoNota.Executar},
                 {"Exercicio = Duracao Evento Fabrica",DuracaoEventoFabrica.Executar},
-                {"Exercicio = Custo NovoConsumidor Carro",CustoNovoConsumidorCarro.Executar}
+                {"Exercicio = Custo Novo Consumidor Carro",CustoNovoConsumidorCarro.Executar},
+                {"Exercicio = Nota Aluno Aprovado Ou Reprovado", NotaAlunoAprovadoOuReprovado.Executar}
 
-
-                
-    
 
             });
              central.SelecionarEExecutar();
