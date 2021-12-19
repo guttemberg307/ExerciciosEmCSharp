@@ -19,14 +19,10 @@ a distância entre eles. A fórmula que efetua tal cálculo é: Image5.gif (1341
 
 8. OK Calcule a média aritmética das 3 notas de um aluno e mostre, além do valor da média, uma mensagem de "Aprovado", caso a média seja igual ou superior a 6, ou a mensagem "reprovado", caso contrário.
 
-10. Elaborar um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem : "É o maior ".
+9. OK Elaborar um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem : "É o maior ".
  
 
-a + b + | a - b |
-
-Maior de a e b = ------------------
-
-11. Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
+10 OK . Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
 
 12. Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:
  
