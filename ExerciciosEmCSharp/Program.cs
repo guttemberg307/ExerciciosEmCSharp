@@ -22,10 +22,11 @@ namespace ExerciciosEmCSharp
                 {"Exercicio = Nota Aluno Aprovado Ou Reprovado", NotaAlunoAprovadoOuReprovado.Executar},
                 {"Exercicio = Maior valor de 3 ", MaiorValor.Executar},
                 {"Exercicio = Multiplos E Nao Multiplos ", MultiplosENaoMultiplos.Executar},
-                {"Exercicio = Idade Nadador Classicacao ",  IdadeNadadorClassicacao.Executar}
+                {"Exercicio = Idade Nadador Classicacao ",  IdadeNadadorClassicacao.Executar},
+                {"Exercicio =  Codigo Aluno Notas ",  CodigoAlunoNotas.Executar}
+     
 
 
-               
 
 
 

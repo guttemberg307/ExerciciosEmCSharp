@@ -24,7 +24,7 @@ a distância entre eles. A fórmula que efetua tal cálculo é: Image5.gif (1341
 
 10 OK . Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
 
-12. Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:
+12.OK Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:
  
 
 infantil A = 5 - 7 anos
@@ -37,9 +37,7 @@ juvenil B = 14-17 anos
 
 adulto = maiores de 18 anos
 
-13. Escreva um algoritmo que leia 3 números inteiros e mostre o maior deles.
-
-14. Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
+13 OK. Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
 
 15. Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
 
@@ -59,8 +57,7 @@ Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule 
 - para homens: (72.7*h)-58
 
 - para mulheres: (62.1*h)-44.7
-
-18. Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando caso-de e não faça repetições) 
+, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando caso-de e não faça repetições) 
 
 Saldo médio	Percentual
 de 0 a 200	nenhum crédito
@@ -87,6 +84,7 @@ Código	Preço unitário
 'ABCD'	R$ 5,30
 'XYPK'	R$ 6,00
 'KLMP'	R$ 3,20
+18. Um banco concederá um crédito especial aos seus clientes
 'QRST'	R$ 2,50
 22. Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário e calcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber 40% de aumento. Mostre o salário antigo, o novo salário e a diferença. 
 
