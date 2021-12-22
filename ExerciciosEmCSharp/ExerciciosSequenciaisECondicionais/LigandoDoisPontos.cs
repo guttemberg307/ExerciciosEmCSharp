@@ -35,7 +35,7 @@ namespace ExerciciosEmCSharp.ExerciciosSeqüênciaisECondicionais
            D = Math.Sqrt(Math.Pow((x2 - x1), 2) + (Math.Pow((x2 - x1), 2)));
            
 
-            Console.WriteLine($"Resultato: {D.ToString("C")}"); // valor.ToString("C") limita a casa decimal em duas exemplo 2,12
+            Console.WriteLine($"Resultato: {D.ToString("F")}"); // valor.ToString("C") limita a casa decimal em duas exemplo 2,12
 
         }
     }
