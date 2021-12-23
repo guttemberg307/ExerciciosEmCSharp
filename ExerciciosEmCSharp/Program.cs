@@ -23,13 +23,8 @@ namespace ExerciciosEmCSharp
                 {"Exercicio = Maior valor de 3 ", MaiorValor.Executar},
                 {"Exercicio = Multiplos E Nao Multiplos ", MultiplosENaoMultiplos.Executar},
                 {"Exercicio = Idade Nadador Classicacao ",  IdadeNadadorClassicacao.Executar},
-                {"Exercicio =  Codigo Aluno Notas ",  CodigoAlunoNotas.Executar}
-     
-
-
-
-
-
+                {"Exercicio = Codigo Aluno Notas ",  CodigoAlunoNotas.Executar},
+                {"Exercicio = Par Impar Positivo Negativo ",  ParImparPositivoNegativo.Executar}
 
             });
              central.SelecionarEExecutar();
