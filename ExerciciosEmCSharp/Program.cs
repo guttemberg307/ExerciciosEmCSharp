@@ -24,7 +24,9 @@ namespace ExerciciosEmCSharp
                 {"Exercicio = Multiplos E Nao Multiplos ", MultiplosENaoMultiplos.Executar},
                 {"Exercicio = Idade Nadador Classicacao ",  IdadeNadadorClassicacao.Executar},
                 {"Exercicio = Codigo Aluno Notas ",  CodigoAlunoNotas.Executar},
-                {"Exercicio = Par Impar Positivo Negativo ",  ParImparPositivoNegativo.Executar}
+                {"Exercicio = Par Impar Positivo Negativo ",  ParImparPositivoNegativo.Executar},
+                {"Exercicio = Cardapio Codigo Preco ",   CardapioCodigoPreco.Executar}
+               
 
             });
              central.SelecionarEExecutar();

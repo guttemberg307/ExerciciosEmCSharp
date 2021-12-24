@@ -41,7 +41,7 @@ adulto = maiores de 18 anos
 
 15.OK. Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
 
-16. O cardápio de uma lancheria é o seguinte:
+16.OK O cardápio de uma lancheria é o seguinte:
 
 Especificação	Código	Preço
 Cachorro quente	100	1,20
