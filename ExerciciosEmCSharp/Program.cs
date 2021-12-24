@@ -25,8 +25,11 @@ namespace ExerciciosEmCSharp
                 {"Exercicio = Idade Nadador Classicacao ",  IdadeNadadorClassicacao.Executar},
                 {"Exercicio = Codigo Aluno Notas ",  CodigoAlunoNotas.Executar},
                 {"Exercicio = Par Impar Positivo Negativo ",  ParImparPositivoNegativo.Executar},
-                {"Exercicio = Cardapio Codigo Preco ",   CardapioCodigoPreco.Executar}
-               
+                {"Exercicio = Cardapio Codigo Preco ",   CardapioCodigoPreco.Executar},
+                 {"Exercicio =  Calculo Peso Ideal ",    CalculoPesoIdeal.Executar}
+
+                
+
 
             });
              central.SelecionarEExecutar();
