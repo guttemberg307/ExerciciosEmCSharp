@@ -59,7 +59,7 @@ Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule 
 - para mulheres: (62.1*h)-44.7
 
 
-, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando caso-de e não faça repetições) 
+18 Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando caso-de e não faça repetições) 
 
 Saldo médio	Percentual
 de 0 a 200	nenhum crédito
