@@ -66,7 +66,8 @@ de 0 a 200	nenhum crédito
 de 201 a 400	20% do valor do saldo médio
 de 401 a 600	30% do valor do saldo médio
 acima de 601	40% do valor do saldo médio
-19. Um usuário deseja um algoritmo onde possa escolher que tipo de média deseja calcular a partir de 3 notas. Faça um algoritmo que leia as notas, a opção escolhida pelo usuário e calcule a média.
+
+19. OK Um usuário deseja um algoritmo onde possa escolher que tipo de média deseja calcular a partir de 3 notas. Faça um algoritmo que leia as notas, a opção escolhida pelo usuário e calcule a média.
 
 1 -aritmética
 2 -ponderada (3,3,4)
@@ -77,7 +78,7 @@ acima de 601	40% do valor do saldo médio
 Código do Produto	Preço unitário
 1001	5,32
 1324	6,45
-6548	2,37
+6548	2,37Po
 0987	5,32
 7623	6,45
 21. Um vendedor precisa de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo. Mostre uma mensagem no caso de código inválido.
