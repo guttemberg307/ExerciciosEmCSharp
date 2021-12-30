@@ -39,9 +39,9 @@ adulto = maiores de 18 anos
 
 13 OK. Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
 
-15.OK. Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
+14.OK. Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
 
-16.OK O cardápio de uma lancheria é o seguinte:
+15.OK O cardápio de uma lancheria é o seguinte:
 
 Especificação	Código	Preço
 Cachorro quente	100	1,20
@@ -52,14 +52,13 @@ Cheeseburguer	104	1,30
 Refrigerante	105	1,00
 Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
 
-17. OK Tendo como dados de entrada a altura e o sexo de uma pessoa (?M? masculino e ?F? feminino), construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+16. OK Tendo como dados de entrada a altura e o sexo de uma pessoa (?M? masculino e ?F? feminino), construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 
 - para homens: (72.7*h)-58
 
 - para mulheres: (62.1*h)-44.7
 
-
-18 Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando caso-de e não faça repetições) 
+OK 17 Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando caso-de e não faça repetições) 
 
 Saldo médio	Percentual
 de 0 a 200	nenhum crédito
@@ -67,74 +66,8 @@ de 201 a 400	20% do valor do saldo médio
 de 401 a 600	30% do valor do saldo médio
 acima de 601	40% do valor do saldo médio
 
-19. OK Um usuário deseja um algoritmo onde possa escolher que tipo de média deseja calcular a partir de 3 notas. Faça um algoritmo que leia as notas, a opção escolhida pelo usuário e calcule a média.
+OK 18. OK Um usuário deseja um algoritmo onde possa escolher que tipo de média deseja calcular a partir de 3 notas. Faça um algoritmo que leia as notas, a opção escolhida pelo usuário e calcule a média.
 
 1 -aritmética
 2 -ponderada (3,3,4)
 3 -harmônica
-
-20. Um vendedor necessita de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo:
-
-Código do Produto	Preço unitário
-1001	5,32
-1324	6,45
-6548	2,37Po
-0987	5,32
-7623	6,45
-21. Um vendedor precisa de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo. Mostre uma mensagem no caso de código inválido.
-
-Código	Preço unitário
-'ABCD'	R$ 5,30
-'XYPK'	R$ 6,00
-'KLMP'	R$ 3,20
-18. Um banco concederá um crédito especial aos seus clientes
-'QRST'	R$ 2,50
-22. Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário e calcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber 40% de aumento. Mostre o salário antigo, o novo salário e a diferença. 
-
-Código	Cargo	Percentual
-101	Gerente	10%
-102	Engenheiro	20%
-103	Técnico	30%
-23. Elaborar um algoritmo que lê 3 valores a,b,c e verifica se eles formam ou não um triângulo. Supor que os valores lidos são inteiros e positivos. Caso os valores formem um triângulo, calcular e escrever a área deste triângulo. Se não formam triângulo escrever os valores lidos. ( se a > b + c não formam triângulo algum, se a é o maior).
-
-24. Escrever um algoritmo que lê a hora de início de um jogo e a hora do final do jogo (considerando apenas horas inteiras) e calcula a duração do jogo em horas, sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
-
-25. Escrever um algoritmo que lê um conjunto de 4 valores i, a, b, c, onde i é um valor inteiro e positivo e a, b, c, são quaisquer valores reais e os escreva. A seguir: 
-
-a) Se i=1 escrever os três valores a, b, c em ordem crescente.
-b) Se i=2 escrever os três valores a, b, c em ordem decrescente.
-c) Se i=3 escrever os três valores a, b, c de forma que o maior entre a, b, c fique dentre os dois.
-
-26. Escrever um algoritmo que lê um valor em reais e calcula qual o menor número possível de notas de 100, 50, 10, 5 e 1 em que o valor lido pode ser decomposto. Escrever o valor lido e a relação de notas necessárias.
-
-27. Escrever um algoritmo que lê:
-
-- a percentagem do IPI a ser acrescido no valor das peças
-- o código da peça 1, valor unitário da peça 1, quantidade de peças 1
-- o código da peça 2, valor unitário da peça 2, quantidade de peças 2
-
-O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.
-
-Fórmula : (valor1*quant1 + valor2*quant2)*(IPI/100 + 1)
-
-28. Escrever um algoritmo que lê a hora de início e hora de término de um jogo, ambas subdivididas em dois valores distintos : horas e minutos. Calcular e escrever a duração do jogo, também em horas e minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
-
-29. Escrever um algoritmo que lê o número de identificação, as 3 notas obtidas por um aluno nas 3 verificações e a média dos exercícios que fazem parte da avaliação. Calcular a média de aproveitamento, usando a fórmula:
-
-MA = (Nota1 + Nota2 x 2 + Nota3 x 3 + ME )/7
-
-A atribuição de conceitos obedece a tabela abaixo:
-
-Média de Aproveitamento	Conceito
-9,0	A
-7,5 e < 9,0	B
-6,0 e < 7,5	C
-4,0 e < 6,0	D
-< 4,0	E
-O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem: APROVADO se o conceito for A,B ou C e REPROVADO se o conceito for D ou E.
-
-30. O departamento que controla o índice de poluição do meio ambiente mantém 3 grupos de indústrias que são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de 0,05 até 0,25. Se o índice sobe para 0,3 as indústrias do 1o grupo são intimadas a suspenderem suas atividades, se o índice cresce para 0,4 as do 1o e 2o grupo são intimadas a suspenderem suas atividades e se o índice atingir 0,5 todos os 3 grupos devem ser notificados a paralisarem suas atividades. Escrever um algoritmo que lê o índice de poluição medido e emite a notificação adequada aos diferentes grupos de empresas.
-
-31. Escrever um algoritmo que calcule os sucessivos valores de E usando a série abaixo e considerando primeiro 3 termos, depois 4 termos e, por fim, 5 termos:  
-
-E = 1 + 1 / 1! + 1 / 2! + 1 / 3! + 1 / 4!
